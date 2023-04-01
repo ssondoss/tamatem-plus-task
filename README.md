@@ -8,6 +8,8 @@ I used angular material package for styling, and created a custom theme in **src
 
 I used **bootstrap** to create responsive web design in easy and fast way.
 
+I used **typeface-roboto** font package and imported it in style.scss file,then I implemented it on the login page scss file;
+
 I used **ReactiveFormsModule** to validate and create my login fields due to it's robust and flexible validation system.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
